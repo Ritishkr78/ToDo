@@ -62,4 +62,4 @@ If all features work as expected, your To-Do List is functioning correctly!
   ```sh
   npm run build
   ```
-- For any issues, check your terminal for errors or open an issue on
+- For any issues, check your terminal for errors or open an issue on GitHub.
